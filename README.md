@@ -67,6 +67,7 @@ Key steps:
 * Model Evaluation
 * Feature Importance Analysis
 * Customer Churn Prediction
+<img width="1295" height="518" alt="Py-2" src="https://github.com/user-attachments/assets/df5c30d6-f13e-4efe-a6c1-3f7a78aa46e4" />
 
 ### 4. Prediction Reporting
 
